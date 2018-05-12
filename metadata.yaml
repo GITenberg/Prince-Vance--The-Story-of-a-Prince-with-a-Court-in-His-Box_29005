@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '25666'
     url: http://www.gutenberg.org/2009/agents/25666
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29005#Prince-Vance--The-Story-of-a-Prince-with-a-Court-in-His-Box
 gutenberg_issued: '2009-05-30'
 gutenberg_type: Text
 identifiers:
